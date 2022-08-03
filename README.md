@@ -18,7 +18,7 @@
 ## Installation
 
 ```bash
-composer require xiaoman/wework
+composer require okki/wework
 ```
 
 ## License
